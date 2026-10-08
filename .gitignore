@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+.env
+local_data/
+*.sqlite3*
+.DS_Store
+Claude outputs/
